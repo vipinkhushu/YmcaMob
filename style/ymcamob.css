@@ -1,0 +1,36 @@
+body {
+
+  font-family:calibri;
+}
+.leftcol
+{
+
+background-repeat: no;
+padding: 9px 14px;
+margin-bottom: 14px;
+background-color: rgb(247, 247, 249);
+border-radius: 4px;
+}
+.imageHolder
+{
+  width:200px;
+  height:220px;
+  position:relative;
+  overflow: hidden;
+
+}
+.show
+{
+position: absolute;
+    top: 75%;
+    height:100%;
+    width:100%;
+    color:#000;
+    text-indent:5px;
+    background:rgba(255,255,255,.5);
+    transition: all 0.5s ease;
+}
+
+.imageHolder:hover > .show{
+    top: 40%;
+}
