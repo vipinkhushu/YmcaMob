@@ -2,7 +2,7 @@
 #### The Alumni Website For [YMCA University Of Science And Technology]
  [YMCA University Of Science And Technology]: <http://www.ymcaust.ac.in/>
 
-> A platfrom for the Alumni of YMCA UST to register for various Gatherings, Chapters and MOB Meets. Online Payment Of Registration Fees and Online Donation system. Alumni can post various requirements like students for jobs, internships or projects. Simply a social network for Alumni
+> A platform for the Alumni of YMCA UST to register for various Gatherings, Chapters and MOB Meets. Online Payment Of Registration Fees and Online Donation system. Alumni can post various requirements like students for jobs, internships or projects. Simply a social network for Alumni
 
 
 #### Technologies Used
